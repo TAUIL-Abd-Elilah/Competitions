@@ -1,0 +1,2 @@
+Solutions of some Solafune competitions that I solved.
+https://zindi.africa/users/TAUIL_Abdelilah
